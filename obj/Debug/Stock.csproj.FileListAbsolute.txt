@@ -1,0 +1,7 @@
+C:\Users\mikab\Desktop\475-Labs\Stock\Stock\obj\Debug\Stock.csproj.AssemblyReference.cache
+C:\Users\mikab\Desktop\475-Labs\Stock\Stock\obj\Debug\Stock.csproj.CoreCompileInputs.cache
+C:\Users\mikab\Desktop\475-Labs\Stock\Stock\bin\Debug\Stock.exe.config
+C:\Users\mikab\Desktop\475-Labs\Stock\Stock\bin\Debug\Stock.exe
+C:\Users\mikab\Desktop\475-Labs\Stock\Stock\bin\Debug\Stock.pdb
+C:\Users\mikab\Desktop\475-Labs\Stock\Stock\obj\Debug\Stock.exe
+C:\Users\mikab\Desktop\475-Labs\Stock\Stock\obj\Debug\Stock.pdb
